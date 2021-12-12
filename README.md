@@ -1,4 +1,4 @@
-# Student-Management-System-Task-Web-Application-
+# Student Management System Task (Web Application)
 ### Screenshots:
 
 <div align="center">
